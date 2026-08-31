@@ -1,0 +1,6 @@
+{
+  "name": "Andyburger - Street Food Premium",
+  "description": "Sitio web Premium estilo Street Food para la hamburguesería Andyburger con animaciones inmersivas, tipografía volcánica y parallax.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
